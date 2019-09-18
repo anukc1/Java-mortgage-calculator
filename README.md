@@ -5,5 +5,11 @@
 * I used the if/else statement to verify the correct value within the while loop. 
 * I have used double as data type for the interest rate but float would be more appropriate since the number isn't going to be that big. 
 
+Following is the code used to create the calculator:
 
-![Code for Mortgage Calculator-using JAVA](https://github.com/anukc1/Java-mortgage-calculator/blob/master/Mortgagecal_code1.png)
+![Code image 1 for Mortgage Calculator-using JAVA](https://github.com/anukc1/Java-mortgage-calculator/blob/master/Mortgagecal_code1.png)
+![Code image 2for Mortgage Calculator-using JAVA](https://github.com/anukc1/Java-mortgage-calculator/blob/master/Mortgagecal_code2.png)
+
+Following is the image of the output: 
+
+![Image of the output](https://github.com/anukc1/Java-mortgage-calculator/blob/master/Mortgage%20calculation.png)
